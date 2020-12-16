@@ -22,7 +22,6 @@ def printArticle(source, title, des, author, url):
     print("Description: ", des)
     print("Author: ", author)
     print("Link: ", url)
-    print("==" * 100)
     print()
 
 
